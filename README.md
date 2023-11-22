@@ -29,7 +29,7 @@ b=int(input())
 ```
 
 ## Output:
-![output](./gcd.png)
+![gcd](https://github.com/23005672/GCD-of-two-numbers/assets/138971519/865e26c7-a958-4714-9cd7-13ebcf46e743)
 
 
 ## Result:
